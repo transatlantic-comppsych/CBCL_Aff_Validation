@@ -4,10 +4,13 @@ Code for the manuscript on validation of CBCL-Aff on three datasets (ABCD, HBN, 
 
 # Authors
 
-Marie Zelenina
+[Marie Zelenina](https://github.com/mariezelenina)
+
 Daniel S. Pine
-Argyris Stringaris
-Dylan M. Nielson
+
+[Argyris Stringaris](https://github.com/Argyris36)
+
+[Dylan M. Nielson](https://github.com/Shotgunosine)
 
 # Important links
 
