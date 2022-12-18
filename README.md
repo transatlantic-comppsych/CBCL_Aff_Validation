@@ -51,7 +51,9 @@ This directory has 9 .ipynb files, one for each dataset and hypothesis:
 - BHRC_Hyp2b.ipynb
 
 Hyp1 = ***Sensitivity***, the ability of CBCL-Aff to differentiate between depressed and not depressed children.
+
 Hyp2a = ***Specificity***, the ability of CBCL-Aff to differentiate between depressed children and children w/o depression but with another form of psychopathology (ADHD/anxiety).
+
 Hyp2a = ***Strict Specificity***, the ability of CBCL-Aff to differentiate between children with depression and w/o comorbidities and children w/o depression but with another form of psychopathology (ADHD/anxiety).
 
 # Where/how to get the data
