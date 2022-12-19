@@ -63,7 +63,7 @@ Hyp2a = ***Strict Specificity***, the ability of CBCL-Aff to differentiate betwe
 
 ## 1. ABCD
 
-Data is shar4ed through the [NIMH data archive](https://nda.nih.gov/abcd/). A tutorial on how to access and download the data is available [here](https://nda.nih.gov/tutorials/abcd/query_and_download.html?chapter=querying-abcd). Prior to downloading the data, the user needs to create an account on the NDA website and request permission.
+Data is shared through the [NIMH data archive](https://nda.nih.gov/abcd/). A tutorial on how to access and download the data is available [here](https://nda.nih.gov/tutorials/abcd/query_and_download.html?chapter=querying-abcd). Prior to downloading the data, the user needs to create an account on the NDA website and request permission.
 
 ## 2. HBN
 
@@ -75,7 +75,7 @@ Instructions for requesting the data are available [here](https://osf.io/ktz5h/w
 
 # How to run the code
 
-Run each Jupyter notebook block by block. Please reach out to [Marie Zelenina](https://github.com/mariezelenina) or [Dylan Nielson](https://github.com/Shotgunosine) with questions.
+Run each Jupyter notebook block by block. Please submit an issue in this repository or reach out to [Marie Zelenina](https://github.com/mariezelenina) or [Dylan Nielson](https://github.com/Shotgunosine) with questions.
 
 ## How to install dependencies
 
