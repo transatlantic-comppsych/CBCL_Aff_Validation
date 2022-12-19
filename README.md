@@ -63,12 +63,102 @@ Hyp2a = ***Strict Specificity***, the ability of CBCL-Aff to differentiate betwe
 
 ## 1. ABCD
 
-
+Data is shar4ed through the [NIMH data archive](https://nda.nih.gov/abcd/). A tutorial on how to access and download the data is available [here](https://nda.nih.gov/tutorials/abcd/query_and_download.html?chapter=querying-abcd). Prior to downloading the data, the user needs to create an account on the NDA website and request permission.
 
 ## 2. HBN
 
+The link to the data and instructions for download are available [here](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/Pheno_Access.html). 
+
 ## 3. BHRC
+
+Instructions for requesting the data are available [here](https://osf.io/ktz5h/wiki/home/). [Request form](https://docs.google.com/forms/d/e/1FAIpQLSebaD9yy4QUHxqOKY-Zof6X_EMoq0atnLvsAQfQ9VsmQh63lw/viewform).
 
 # How to run the code
 
+Run each Jupyter notebook block by block. Please reach out to [Marie Zelenina](https://github.com/mariezelenina) or [Dylan Nielson](https://github.com/Shotgunosine) with questions.
+
 ## How to install dependencies
+
+We use the following libraries: 
+
+### [pandas](https://pandas.pydata.org/)
+
+Data analysis and manipulation, used for creting and manipulation dataframes.
+
+[Installation instructions](https://pandas.pydata.org/getting_started.html), [Advanced installation instructions](https://pandas.pydata.org/docs/getting_started/install.html).
+
+Installing with pip:
+
+  pip install pandas
+
+Installing with conda:
+
+  conda create -n name_of_my_env python
+  source activate name_of_my_env
+  conda install pandas
+
+### [numpy](https://numpy.org/)
+
+Scientific computing in python.
+
+[Installation instructions](https://numpy.org/install/)
+
+Installing with pip:
+
+  pip install numpy
+
+Installing with conda:
+
+  conda create -n my-env
+  conda activate my-env
+  conda config --env --add channels conda-forge
+  conda install numpy
+
+### [matplotlib](https://matplotlib.org/)
+
+A library for producing plots.
+
+[Installation instructions](https://matplotlib.org/stable/users/installing/index.html)
+
+Installing with pip:
+
+  pip install matplotlib
+
+Installing with conda:
+
+  conda install matplotlib
+
+### [itertools](https://docs.python.org/3/library/itertools.html)
+
+Functions creating iterators for efficient looping
+
+This is a python standard library.
+
+### [scikit-learn (sklearn)](https://scikit-learn.org/stable/)
+
+A ML library, for analysis methods such as the AUCROC function and the confusion matrix generator. 
+
+[Installation instructions](https://scikit-learn.org/stable/install.html#installation-instructions).
+
+Installing with pip:
+
+  pip install -U scikit-learn
+
+Installing with conda:
+
+  conda create -n sklearn-env -c conda-forge scikit-learn
+  conda activate sklearn-env
+
+### [scipy](https://scipy.org/)
+
+A library for Fundamental algorithms for scientific computing in Python, for sttaistical analysis. 
+
+[Installation instructions](https://scipy.org/install/).
+
+Installing with pip:
+
+  python -m pip install scipy
+
+Installing with conda:
+
+  conda install scipy
