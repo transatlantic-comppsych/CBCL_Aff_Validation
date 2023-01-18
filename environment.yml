@@ -1,0 +1,12 @@
+name: CBCL_Aff_Validation
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - scipy
+  - numpy
+  - scikit-learn
+  - python
+  - notebook
+  - jupyter
